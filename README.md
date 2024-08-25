@@ -22,3 +22,7 @@ In this repo i'd showing gitmarkdown
 ![VIEW here](https://github.com/bellaTHEanalyst/Learning-GIT_MARKDOWN/blob/main/headshot.jpeg)
 
 
+[Connect with me](https://www.linkedin.com/in/emmy1194/)
+
+
+
